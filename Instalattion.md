@@ -7,7 +7,7 @@ You can download lastet version from [here]
 
 ####  2) Install yarn
 
-st s [Homebrew]
+install s [Homebrew]
 ```
 brew install yarn
 ``` 
